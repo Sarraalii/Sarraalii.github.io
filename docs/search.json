@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Articles, geospatial and publications",
+    "section": "",
+    "text": "Toronto’s Opioid Epidemic. A geospatial analysis of the opioid epidemic in Toronto, associated risk factors, and areas to target for action\nRethinking policy in a digital age: The role of blockchain technology in Canada\nAnthropometric Measures of Obesity to Predict Mortality using Edmonton’s Obesity Staging System"
+  },
+  {
+    "objectID": "Posts/blog1/index.html",
+    "href": "Posts/blog1/index.html",
+    "title": "My first post with R",
+    "section": "",
+    "text": "mydata&lt;-cars\n  plot(speed~dist, data=mydata)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi Friends,"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "MY BLOG",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\nMy first post with R\n\n\n\nPlots\n\n\n\nMy block description\n\n\n\nSarra\n\n\nNov 20, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

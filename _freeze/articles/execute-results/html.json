@@ -1,0 +1,14 @@
+{
+  "hash": "9cfbfdae6b14eed4e266535a9c8787f1",
+  "result": {
+    "markdown": "---\ntitle: \"Articles\"\n---\n\n\n\n [Article](https://healthydebate.ca/2023/04/topic/policy-digital-age-blockchain)\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sarra Ali"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: articles.qmd
+        text: Article
+      - href: blog.qmd
+        text: Blog
+      - href: Files/MER.pdf
+        text: Portfolio
+
+format:
+  html:
+    theme: Vapor
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute: 
+  freeze: auto

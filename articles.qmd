@@ -1,0 +1,18 @@
+---
+title: "Articles, geospatial and publications"
+image: Images/vin.jpg 
+
+---
+
+[Toronto’s Opioid Epidemic. A geospatial analysis of the opioid epidemic in Toronto, associated risk factors, and areas to target for action](https://storymaps.arcgis.com/stories/9b512757b2a54529a04676a5b0431c35)
+
+
+ [Rethinking policy in a digital age: The role of blockchain technology in Canada
+](https://healthydebate.ca/2023/04/topic/policy-digital-age-blockchain)
+
+
+[Anthropometric Measures of Obesity to Predict Mortality using Edmonton’s Obesity
+Staging System](http://www.annexpublishers.com/articles/JNH/8102-Anthropometric-Measures-of-Obesity-to-Predict.pdf)
+
+
+

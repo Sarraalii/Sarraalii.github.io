@@ -1,0 +1,14 @@
+---
+title: "My first post with R"
+description: "My block description "
+author: "Sarra"
+date: "11/20/2023"
+categories:
+  - Plots 
+---
+
+```{r}
+mydata<-cars
+  plot(speed~dist, data=mydata)
+
+```
